@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <com.jkdsking.banner.Banner
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"/>
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="20dp"-->
+<!--        android:orientation="horizontal"-->
+<!--        android:layout_marginLeft="20dp"-->
+<!--        android:layout_marginRight="20dp"-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        >-->
+
+<!--        <View-->
+<!--            android:layout_width="10dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:background="@color/colorAccent"/>-->
+
+<!--        <View-->
+<!--            android:layout_width="10dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:background="@color/colorPrimaryDark"-->
+<!--            android:layout_marginLeft="1dp"-->
+<!--            />-->
+
+<!--        <View-->
+<!--            android:layout_width="10dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:background="@color/colorPrimary"-->
+<!--            android:layout_marginLeft="1dp"-->
+<!--            />-->
+
+<!--        <View-->
+<!--            android:layout_width="10dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:background="@android:color/black"-->
+<!--            android:layout_marginLeft="1dp"-->
+<!--            />-->
+
+<!--        <View-->
+<!--            android:layout_width="10dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:background="@android:color/darker_gray"-->
+<!--            android:layout_marginLeft="1dp"-->
+<!--            />-->
+
+<!--    </LinearLayout>-->
+
+
+
+
+
+</LinearLayout>
